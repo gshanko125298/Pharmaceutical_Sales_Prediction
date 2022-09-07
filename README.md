@@ -1,6 +1,6 @@
 # Pharmaceutical_Sales_Prediction
 
-10 Academy Batch 6 - Weekly Challenge: Week 3- harmaceutical_Sales_Prediction
+10 Academy Batch 6 - Weekly Challenge: Week 3- Pharmaceutical_Sales_Prediction
 
 **Table of content**
 
@@ -40,7 +40,7 @@ cd Pharmaceutical_Sales_Prediction
 pip install -r requirements.txt
 ```
 
-## Data
+## Data and features
 
 - The BIO data for this project :Train , test and Store Data 
 
@@ -55,10 +55,10 @@ The data collected for this challenge has the following columns
 - date: the date in YYYY-MM-DD format
 - Customers - the number of customers on a given day
 - Open - an indicator for whether the store was open: 0 = closed, 1 = open
--  StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays.
+- StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays.
 - StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. 
 - SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools
-- .StoreType - differentiates between 4 different store models: a, b, c, d
+- StoreType - differentiates between 4 different store models: a, b, c, d
 - Assortment - describes an assortment level: a = basic, b = extra, c = extended. Read more about assortment here
 - CompetitionDistance - distance in meters to the nearest competitor store
 - CompetitionOpenSince[Month/Year] - gives the approximate year and month of the time the nearest competitor was opened
