@@ -85,6 +85,10 @@ The data collected for this challenge has the following columns
 > All the unit and integration tests are found here in the tests folder.
 
 ## Authors
+👤 **Genet Shanko**
 
-> Genet Shanko.
+- GitHub: [Genet Shanko](https://github.com/gshanko125298))
+- LinkedIn: [Genet Shanko](https://www.linkedin.com/in/genet-dekebo-24b34658/)
+- Website: [Genet Shanko Demo Porfolio](https://github.com/Ad-Campaign-Performance/SmartAd_A-B_Testing_user_analysis/pull/11)
+
 
