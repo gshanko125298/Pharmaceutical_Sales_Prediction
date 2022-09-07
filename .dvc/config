@@ -1,4 +1,0 @@
-[core]
-    remote = mydata
-['remote "mydata"']
-    url = https://drive.google.com/drive/u/0/folders/1rbiLJuE6WQzqX1sxhXsd1VtwwDumKeGE
