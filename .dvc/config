@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ../gdrive:/1g-lFazNrH2Wr2soPyzW9BTMS_AjSWKB8
+['remote "dvc_dataset"']
+    url = ../gdrive:/1g-lFazNrH2Wr2soPyzW9BTMS_AjSWKB8
