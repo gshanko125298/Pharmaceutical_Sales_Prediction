@@ -4,3 +4,5 @@
     url = ../gdrive:/1g-lFazNrH2Wr2soPyzW9BTMS_AjSWKB8
 ['remote "dvc_dataset"']
     url = ../gdrive:/1g-lFazNrH2Wr2soPyzW9BTMS_AjSWKB8
+['remote "myremote"']
+    url = ../gdrive:/19DZzKQt083hrZgcsE4bXo7t0BkPeMpas
