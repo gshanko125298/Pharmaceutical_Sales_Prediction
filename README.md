@@ -81,9 +81,8 @@ The data collected for this challenge has the following columns
 
 ## Models using machine learning
 
-> All the models generated will be found here in the models folder.
-> All the databases schema will be found here in the models folder.
-
+>  Machine learning models were trained. The one that presented best results on training and testing results are selected  after cross-validation was conducted.
+> 
 ## Model using Deep learning
 
 > All the Utils for Data munipulation and Ploting can be found here
