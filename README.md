@@ -21,7 +21,7 @@
 
 ##Learning Outcomes
 
-  > Statistical Modelling
+> Statistical Modelling
 
 > Using core data science python libraries pandas, matplotlib, seaborn, scikit-learn
 
@@ -71,7 +71,8 @@ The data collected for this challenge has the following columns
 >  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysiwas sone in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
 > some the EDA as shown below 
 > Univariate Analysis
-> 
+> Sales ![image](https://user-images.githubusercontent.com/43541659/189528154-5ae06b44-8d97-402f-8db3-1eafbe270eed.png)
+
 ## Models using machine learning
 
 > All the models generated will be found here in the models folder.
