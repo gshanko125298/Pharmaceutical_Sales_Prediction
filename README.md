@@ -76,6 +76,8 @@ The data collected for this challenge has the following columns
 >Bivariate Analysis
 >Sales Over Time
 >![image](https://user-images.githubusercontent.com/43541659/189529866-2f6cf9b3-2aca-40ed-ad23-3419a53736a3.png)
+>Sales By Promotion
+>![image](https://user-images.githubusercontent.com/43541659/189530196-5ff31cad-8c3d-4035-89ad-5d7578e7dedc.png)
 
 ## Models using machine learning
 
