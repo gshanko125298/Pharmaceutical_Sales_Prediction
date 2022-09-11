@@ -5,7 +5,7 @@
 **Table of content**
 
 - [Introduction](#introduction)
-- learining outcome(#learning outcomes)
+- [learining outcome](#learning outcomes)
 - [Install](#install)
 - [Data](#data)
 - [EDA](#EDA)
@@ -68,8 +68,10 @@ The data collected for this challenge has the following columns
 
 ## EDA
 
-> All the Data Processing, EDA, statistical and sequential Analysis notebook file can be found in the notebooks folder.
-
+>  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysiwas sone in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
+> some the EDA as shown below 
+> Univariate Analysis
+> 
 ## Models using machine learning
 
 > All the models generated will be found here in the models folder.
