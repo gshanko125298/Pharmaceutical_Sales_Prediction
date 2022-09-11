@@ -1,17 +1,17 @@
-# Pharmaceutical_Sales_Prediction
+# Pharmaceutical Sales Prediction across multiple stores using Deep learning 
 
-10 Academy Batch 6 - Weekly Challenge: Week 3- Pharmaceutical_Sales_Prediction
+ the project was conducted for 10 Academy Batch 6 - Weekly Challenge of  Week-3
 
 **Table of content**
 
 - [Introduction](#introduction)
-- [Overview](#overview)
+- learining outcome(#learning outcomes)
 - [Install](#install)
 - [Data](#data)
-- [Notebooks](#notebooks)
-- [Models](#models)
-- [Scripts](#scripts)
-- [Test](#test)
+- [EDA](#EDA)
+- [Models using machine learning](#Models using machine learning)
+- [models using deep learning](#Model using Deep learning)
+- [Conclusion](#Conclusion)
 
 
 ## Introduction
@@ -19,9 +19,8 @@
  The project aims to forcust sales of six week, ahead of time for Rossmann Pharmaceuticals as a Machine Learning Engineer.
  this project used to predict by using fourstore datasets.
 
-## Overview
+##Learning Outcomes
 
-- Learning Outcomes
   > Statistical Modelling
 
 > Using core data science python libraries pandas, matplotlib, seaborn, scikit-learn
@@ -67,20 +66,20 @@ The data collected for this challenge has the following columns
 - Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. 
 
-## Notebooks
+## EDA
 
 > All the Data Processing, EDA, statistical and sequential Analysis notebook file can be found in the notebooks folder.
 
-## Models
+## Models using machine learning
 
 > All the models generated will be found here in the models folder.
 > All the databases schema will be found here in the models folder.
 
-## Scripts
+## Model using Deep learning
 
 > All the Utils for Data munipulation and Ploting can be found here
 
-## Tests
+## Conclusion
 
 > All the unit and integration tests are found here in the tests folder.
 
