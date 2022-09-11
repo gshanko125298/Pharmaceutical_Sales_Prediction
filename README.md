@@ -1,17 +1,17 @@
-# Pharmaceutical_Sales_Prediction
+# Pharmaceutical Sales Prediction across multiple stores using Deep learning 
 
-10 Academy Batch 6 - Weekly Challenge: Week 3- Pharmaceutical_Sales_Prediction
+ the project was conducted for 10 Academy Batch 6 - Weekly Challenge of  Week-3
 
 **Table of content**
 
-- [Introduction](#introduction)
-- [Overview](#overview)
-- [Install](#install)
-- [Data](#data)
-- [Notebooks](#notebooks)
-- [Models](#models)
-- [Scripts](#scripts)
-- [Test](#test)
+- Introduction
+- learining outcome
+- Install
+- Data
+- EDA
+- Models using Machine learning
+- Models using Deep learning
+- Conclusion
 
 
 ## Introduction
@@ -19,10 +19,9 @@
  The project aims to forcust sales of six week, ahead of time for Rossmann Pharmaceuticals as a Machine Learning Engineer.
  this project used to predict by using fourstore datasets.
 
-## Overview
+##Learning Outcomes
 
-- Learning Outcomes
-  > Statistical Modelling
+> Statistical Modelling
 
 > Using core data science python libraries pandas, matplotlib, seaborn, scikit-learn
 
@@ -67,22 +66,34 @@ The data collected for this challenge has the following columns
 - Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
 - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. 
 
-## Notebooks
+## EDA
 
-> All the Data Processing, EDA, statistical and sequential Analysis notebook file can be found in the notebooks folder.
+>  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysiwas sone in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
+> some the EDA as shown below 
+> Univariate Analysis
+> Sales 
+> ![image](https://user-images.githubusercontent.com/43541659/189528154-5ae06b44-8d97-402f-8db3-1eafbe270eed.png)
+>Bivariate Analysis
+>Sales Over Time
+>![image](https://user-images.githubusercontent.com/43541659/189529866-2f6cf9b3-2aca-40ed-ad23-3419a53736a3.png)
+>Sales By Promotion
+>![image](https://user-images.githubusercontent.com/43541659/189530196-5ff31cad-8c3d-4035-89ad-5d7578e7dedc.png)
 
-## Models
+## Models using machine learning
 
-> All the models generated will be found here in the models folder.
-> All the databases schema will be found here in the models folder.
+>  Machine learning models were trained. The one that presented best results on training and testing results are selected  after cross-validation was conducted.
+> 
+## Model using Deep learning
 
-## Scripts
+> Using deep learning models the analysis conducted and best result was taken.
 
-> All the Utils for Data munipulation and Ploting can be found here
+## Conclusion
 
-## Tests
+> Based on the above model analysis the Random Forest Regression analysis shows better results. Based on the EDA analysis the following points are observed :
+- Stores open during the Christmas holiday should sell more.
+- Stores should sell less on weekends.
+- Stores should sell less during school holidays
 
-> All the unit and integration tests are found here in the tests folder.
 
 ## Authors
 👤 **Genet Shanko**
