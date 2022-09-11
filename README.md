@@ -90,9 +90,9 @@ The data collected for this challenge has the following columns
 ## Conclusion
 
 > Based on the above model analysis the Random Forest Regression analysis shows better results. Based on the EDA analysis the following points are observed :
- >	Stores open during the Christmas holiday should sell more.
-  >Stores should sell less on weekends.
-   >	Stores should sell less during school holidays
+- Stores open during the Christmas holiday should sell more.
+- Stores should sell less on weekends.
+- Stores should sell less during school holidays
 
 
 ## Authors
