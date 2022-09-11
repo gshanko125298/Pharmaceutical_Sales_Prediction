@@ -4,14 +4,14 @@
 
 **Table of content**
 
-- [Introduction]
-- [learining outcome]
-- [Install](#install)
-- [Data]
-- [EDA]
-- [Models using Machine learning]
-- [models using deep learning]
-- [Conclusion]
+- Introduction
+- learining outcome
+- Install
+- Data
+- EDA
+- Models using Machine learning
+- Models using Deep learning
+- Conclusion
 
 
 ## Introduction
@@ -71,7 +71,11 @@ The data collected for this challenge has the following columns
 >  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysiwas sone in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
 > some the EDA as shown below 
 > Univariate Analysis
-> Sales ![image](https://user-images.githubusercontent.com/43541659/189528154-5ae06b44-8d97-402f-8db3-1eafbe270eed.png)
+> Sales 
+> ![image](https://user-images.githubusercontent.com/43541659/189528154-5ae06b44-8d97-402f-8db3-1eafbe270eed.png)
+>Bivariate Analysis
+>Sales Over Time
+>![image](https://user-images.githubusercontent.com/43541659/189529866-2f6cf9b3-2aca-40ed-ad23-3419a53736a3.png)
 
 ## Models using machine learning
 
