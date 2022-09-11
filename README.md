@@ -4,14 +4,14 @@
 
 **Table of content**
 
-- [Introduction](#introduction)
-- [learining outcome](#learning outcomes)
+- [Introduction]
+- [learining outcome]
 - [Install](#install)
-- [Data](#data)
-- [EDA](#EDA)
-- [Models using machine learning](#Models using machine learning)
-- [models using deep learning](#Model using Deep learning)
-- [Conclusion](#Conclusion)
+- [Data]
+- [EDA]
+- [Models using Machine learning]
+- [models using deep learning]
+- [Conclusion]
 
 
 ## Introduction
