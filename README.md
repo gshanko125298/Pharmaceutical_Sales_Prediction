@@ -85,11 +85,15 @@ The data collected for this challenge has the following columns
 > 
 ## Model using Deep learning
 
-> All the Utils for Data munipulation and Ploting can be found here
+> Using deep learning models the analysis conducted and best result was taken.
 
 ## Conclusion
 
-> All the unit and integration tests are found here in the tests folder.
+> Based on the above model analysis the Random Forest Regression analysis shows better results. Based on the EDA analysis the following points are observed :
+        •	Stores open during the Christmas holiday should sell more.
+        •	Stores should sell less on weekends.
+        •	Stores should sell less during school holidays
+
 
 ## Authors
 👤 **Genet Shanko**
