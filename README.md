@@ -68,7 +68,7 @@ The data collected for this challenge has the following columns
 
 ## EDA
 
->  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysiwas sone in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
+>  This steps are necessary both for feature selection and machine learning models.  All the Data Processing, statistical and sequential Analysi.  in this steps  that can be used as a data anlysis, data  understanding  , data visualization by observing the relation between some the features with target features. 
 > some the EDA as shown below 
 > Univariate Analysis
 > Sales 
